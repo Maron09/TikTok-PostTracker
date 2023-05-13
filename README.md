@@ -1,2 +1,1 @@
-# tokalert
 # TikTok-PostTracker
